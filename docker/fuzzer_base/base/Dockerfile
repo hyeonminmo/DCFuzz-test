@@ -37,7 +37,7 @@ RUN apt-get update && \
     python3 python3-dev python3-pip \
     libboost-all-dev \
     cmake ninja-build \
-    git curl clang \
+    git curl \
     build-essential golang \
     nano pkg-config libtinfo5\
     opam libclang-cpp12-dev libgmp-dev \

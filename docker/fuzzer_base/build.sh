@@ -1,6 +1,6 @@
 #!/bin/bash -e
 SCRIPT_DIR=$(dirname $(realpath $0))
-export IMAGE_PREFIX=fuzzer_base2
+export IMAGE_PREFIX=fuzzer_base
 
 fuzzer_list=(
     base
